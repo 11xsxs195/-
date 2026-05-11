@@ -1,0 +1,10 @@
+requests>=2.20
+beautifulsoup4
+lxml
+pandas
+numpy
+matplotlib
+pyecharts
+urllib3
+jieba
+wordcloud
